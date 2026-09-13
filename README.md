@@ -1,6 +1,7 @@
 # Olá meus jovens 👋
 
-<img align="right" src=".github/image.png" width="300"/> 
+<img align="right" src="<img width="699" height="628" alt="image" src="https://github.com/user-attachments/assets/78ea07de-707a-4759-94a9-bdad4b0cd83e" />
+" width="300"/> 
 
 Me chamo Kauã Vanderlei, tenho 16 anos, moro em Caririaçu-CE e sou desenvolvedor **full stack**.
 
